@@ -35,4 +35,5 @@
 
 ## История версий
 
-Кратко — в описании каждого релиза на вкладке [Releases](https://github.com/LiszaJuo/KOMUNALKA-releases/releases).
+Одним взглядом — [CHANGELOG.md](./CHANGELOG.md).  
+Подробности и файлы — на вкладке [Releases](https://github.com/LiszaJuo/KOMUNALKA-releases/releases).
